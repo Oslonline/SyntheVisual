@@ -6,7 +6,7 @@
 
 <h2>🚀 Link to live preview </h2>
 
-[https://oslo418/Syn](https://oslo418.com/Syn)
+[https://oslo418.com/Syn](https://oslo418.com/Syn)
 
 <h2>Project Screenshots:</h2>
 <h3>Desktop</h3>

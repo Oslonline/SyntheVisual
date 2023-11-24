@@ -16,4 +16,4 @@
 <img src="https://oslo418.com/Syn/assets/screenshot-desktop-2.png" alt="project-screenshot" width="400"> <img src="https://oslo418.com/Syn/assets/screenshot-desktop-4bis.png" alt="project-screenshot" width="400">
 <h3>Mobile</h3>
 
-<img src="https://oslo418.com/Syn/assets/screenshot-mobile-1.png" alt="project-screenshot" width="20%"> <img src="https://oslo418.com/Syn/assets/screenshot-mobile-2.png" alt="project-screenshot" width="20%"> <img src="https://oslo418.com/Syn/assets/screenshot-mobile-3.png" alt="project-screenshot" width="20%"> <img src="https://oslo418.com/Syn/assets/screenshot-mobile-4.png" alt="project-screenshot" width="20%">
+<img src="https://oslo418.com/Syn/assets/screenshot-mobile-1.png" alt="project-screenshot" width="20%"> <img src="https://oslo418.com/Syn/assets/screenshot-mobile-2.png" alt="project-screenshot" width="20%"> <img src="https://oslo418.com/Syn/assets/screenshot-mobile-3.png" alt="project-screenshot" width="20%"> <img src="https://oslo418.com/Syn/assets/screenshot-mobile-4-1.png" alt="project-screenshot" width="20%">

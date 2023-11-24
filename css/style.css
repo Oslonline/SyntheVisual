@@ -386,7 +386,7 @@ footer a:hover{
 
     .gallery{
         grid-template-columns: repeat(1, 1fr);
-        grid-template-rows: repeat(14, 1fr);
+        grid-template-rows: repeat(15, 1fr);
     }
 
     .coded-by{
